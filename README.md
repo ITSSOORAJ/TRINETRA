@@ -108,6 +108,15 @@ Trinetra automatically sends email alerts when a recognized person is detected.
 ![Real-time Surveillance](output/pakkarnsu.png)  
 🔹  
 
+### **CAMERA FEEDS**  
+![Camera1](output/camera1.png)  
+🔹  
+![Camera2](output/camera2.png)  
+🔹  
+### **ALERT**  
+![pakaran_mail](output/pakarn_mail.png).  
+🔹  
+
 ---
 
 ## **Developed By: TRINETRA TEAM**  
